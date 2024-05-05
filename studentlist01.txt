@@ -1,0 +1,29 @@
+Full Name		Gender	Major	StudentID	Program (0 or 1)	Scores of 5 subjects (-1 if don't study)
+nguyen mai chi	female	it2	20203322	0	4	5	6	6	-1
+lE mINH	male	et1	20210593	1	9	-1	7	1	0
+hO vIet dUC LuONG	male	ch1	20200376	0	-1	-1	9	-1	2
+nguyen nam khanh	male	et2	20200320	1	3	9	-1	7	6
+nGuyeN tHI HoaI lINH	female	et1	20205231	0	9	3	-1	-1	4
+pHAN mINH aNH tUan	male	it1	20205227	1	8	0	-1	4	3
+bui hoang tu	male	et9	20200547	1	5	-1	7	4	10
+PhAm HOng nHUNG	female	ch3	20193869	0	8	4	-1	-1	7
+bui thi ngoc huyen	female	it2	20192919	0	-1	-1	-1	7	8
+dao van tung	male	ch2	20204932	1	7	8	-1	1	8
+do thu phuong	female	et9	20210696	0	3	4	5	-1	8
+dang manh cuong	male	ch1	20214949	0	3	5	-1	7	8
+dao minh dung	male	et2	20183503	1	4	9	-1	7	-1
+bui thi lan huong	female	it2	20197032	0	7	3	1	8	4
+pham thi hong ngat	female	it1	20193568	0	8	9	10	7	3
+duong hoang hai	male	et1	20215198	1	5	7	9	10	6
+tran quang dai	male	ch2	20210146	0	4	7	9	-1	-1
+doan the vinh	male	et2	20210940	1	7	9	-1	7	2
+nguyen song nam	male	ch1	20210621	0	7	8	1	-1	9
+nguyen huyen trang	female	ch3	20211266	1	7	-1	-1	-1	-1
+nguyen phuong linh	female	et9	20203845	0	-1	-1	8	7	0
+nguyen trung hieu	male	et2	20204909	1	7	7	7	0	9
+nguyen hoa phan	male	ch2	20210666	0	0	-1	-1	-1	7
+vu thi hoang dieu	female	it2	20198064	0	8	9	10	7	3
+ngo thi thu hoa	female	ch2	20192859	0	-1	-1	7	9	10
+nguyen le thanh hang	female	it1	20190701	1	-1	7	9	5	6
+cu huy hiep	male	et1	20200212	1	-1	8	-1	9	-1
+nguyen quoc huy	male	et9	20210427	1	9	6	7	-1	-1
